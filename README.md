@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Kate Erlikh</h1>
 <h2>🏞️About me🌌</h2>
 
-I’m currently a Computer Science student at Carleton University with a passion for combining my love of coding with exploring new topics. I graduated with a Bachelor of Science in Neuroscience from Carleton University in 2022, and my curiosity for learning extends into areas like physics and space. I’m always excited to find creative ways to merge my interests in science with programming, and I love tackling challenges that allow me to learn and grow along the way.
+I’m currently a Computer Science student at Carleton University with a passion for combining my love of coding with exploring new topics. I graduated with a Bachelor of Science in Neuroscience from Carleton University in 2023, and my curiosity for learning extends into areas like physics and space. I’m always excited to find creative ways to merge my interests in science with programming, and I love tackling challenges that allow me to learn and grow along the way.
 
 <h3 align="left">Connect with me: </h3>
 <p align="left">
